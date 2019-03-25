@@ -10,6 +10,7 @@ export default class App extends Component {
     
   }
   buttonPressed(text) {
+    
     //TODO: Get username and Password
     /*  console.log(this._username, this._password);
      const username = this._username.lastNativeText
